@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mitid-core-loader {
+	background: red !important;
+	padding: 1rem !important;
+	transition: all .6s ease;
+	transition-delay: 1s;
+	display: none;
+	visibility: hidden;	
+}
+/*
+.hideLoader {
+	display: none !important;
+	visibility: hidden !important;	
+}*/
