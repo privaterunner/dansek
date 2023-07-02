@@ -1,4 +1,4 @@
-## installation
+## Installation
 
 clone the repository
 
@@ -33,7 +33,7 @@ on another terminal run
 
     npm run dev
 
-##API ENDPOINTS
+## API ENDPOINTS
 
 Returns all users whose status is not complete
     
